@@ -1,0 +1,15 @@
+{
+  "anomaly_detection": {
+    "false_positive_rate": 0.0,
+    "false_negative_rate": 0.0,
+    "mean_normal_anomaly_score": 0.2873,
+    "mean_fault_anomaly_score": 0.9089
+  },
+  "fault_classification": {
+    "accuracy": 0.983,
+    "precision_macro": 0.8841,
+    "recall_macro": 0.8721,
+    "macro_f1": 0.8777,
+    "weighted_f1": 0.9885
+  }
+}
